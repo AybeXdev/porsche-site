@@ -1,0 +1,104 @@
+
+body {
+    background-image: url('../img/arkaplan.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+  
+ 
+  header {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 15px 0;
+    text-align: center;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .logo {
+    font-size: 26px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    transition: 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #f4d03f;
+  }
+  
+
+  .models {
+    padding: 80px 20px 40px;
+    background-color: rgba(0,0,0,0.1);
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .models h1 {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+  
+  .models-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .model {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 15px;
+    border-radius: 5px;
+    width: 300px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .model img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .model h2 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .model p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+
+  footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #222;
+    color: white;
+  }
+  

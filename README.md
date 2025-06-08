@@ -1,2 +1,4 @@
-# porsche-site
-orjinal site değildir- sadece kednı halımde yaptım örnek web sitesidir
+# PORSCHE 
+## UYARI  !!! 
+- BU SITE SADECE CANIM SIKILINCA ZAMANA KARŞI YARIŞIP YAPTIM SITEDIR
+- BAŞKA HİÇBİR AMACA HİZMET ETMEMEKTEDİR
